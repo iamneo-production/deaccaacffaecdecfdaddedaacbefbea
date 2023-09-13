@@ -1,0 +1,1 @@
+read -p "Enter the data(DD): "
